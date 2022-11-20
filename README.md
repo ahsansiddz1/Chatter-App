@@ -62,7 +62,7 @@ flutter run
 
 ### How to make a Pull Request:
 
-**1.** Fork [this](https://github.com/ishandeveloper/Chatter-App) repository.
+**1.** Fork [this](https://github.com/ahsansiddz1/Chatter-App) repository.
 
 **2.** Clone the forked repository.
 
@@ -114,7 +114,7 @@ git push -u origin development
 
 For help getting started with Flutter, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
-##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
+##### Made with ♥ by <a href="https://github.com/ahsansiddz1">ahsansiddz1</a>
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
