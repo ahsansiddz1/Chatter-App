@@ -10,7 +10,7 @@ One of the first simple apps I created while on my journey to learn flutter.
 
 
 ##### Download APK
-<pre><a href="https://github.com/ishandeveloper/Chatter-App/raw/master/app.apk">https://github.com/ishandeveloper/Chatter-App/raw/master/app.apk</a></pre>
+<pre><a href="https://github.com/ahsansiddz1/Chatter-App/raw/master/app.apk">https://github.com/ahsansiddz1/Chatter-App/raw/master/app.apk</a></pre>
 
 
 ### Demo
